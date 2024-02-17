@@ -15,7 +15,7 @@ animate our cube to rotate with Quaternions.
 public class Quaternion : MonoBehaviour
 {
     // TODO: Problem 1: Define Vector3 and Rotation variables here.
-    public Vector3 moveDirection;
+    public Vector3 result;
     public float rotation;
     // TODO: Problem 2: Define two Quaternions
     public Quaternion quaternion1;
